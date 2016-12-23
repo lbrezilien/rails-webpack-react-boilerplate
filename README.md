@@ -12,7 +12,8 @@ This is a simple boilerplate project to allow you to use react-rails' `<%= react
     Be sure to also list add your component to the object literal in components.js after creating and exporting it.
 
 
-#Rails version : 5.0.1
-#Database: Postgres
-#React Version: 15.4.1
+#Versions
+    Rails version : 5.0.1
+    Database: Postgres
+    React Version: 15.4.1
 
