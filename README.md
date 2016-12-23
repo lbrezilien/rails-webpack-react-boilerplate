@@ -1,6 +1,6 @@
 # README
 
-This is a simple boilerplate project to allow you to use react-rails' `<%= react_component 'ComponentName' %>` mounter, but still have webpack control your javascript bundling. This removes react and other libraries from the main scope and allows you to import what you need when you need it. 
+This is a simple boilerplate project to allow you to use the react-rails `<%= react_component 'ComponentName' %>` mounter, but still have webpack control your javascript bundling. This removes react and other libraries from the main scope and allows you to import what you need when you need it. 
 
 #Usage
     1. Clone the project
